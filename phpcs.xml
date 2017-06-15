@@ -19,7 +19,7 @@
     <exclude-pattern>*.png</exclude-pattern>
     <exclude-pattern>*.gif</exclude-pattern>
 
-    <!-- Include the whole PSR-0 standard -->
-    <rule ref="PSR0"/>
+    <!-- Include the whole PSR-1 standard -->
+    <rule ref="PSR1"/>
 
 </ruleset>
